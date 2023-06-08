@@ -1,2 +1,2 @@
 # FlatTeam_BOT
- dev
+a pyrogram-based telegram bot for FlatTeam (private)
